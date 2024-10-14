@@ -19,12 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itsvinayyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsvinayyay" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/itsvinayyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsvinayyay" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/vinay-vashist-60108b233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-vashist-60108b233" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17700480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17700480" height="30" width="40" /></a>
-<a href="https://instagram.com/itsvinayyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsvinayyay" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/17700480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17700480" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/itsvinayyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsvinayyay" height="30" width="40" /></a> -->
 <a href="https://medium.com/@vinay.vashist2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vinay.vashist2003" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@vinayvashisht2957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vinay vashist" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/@vinayvashisht2957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vinay vashist" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/bitingcodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bitingcodes" height="30" width="40" /></a>
 </p>
 
