@@ -2,7 +2,7 @@
 <img align="center" width="1100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZRJiJ-6PpsSYo7m2bAepMjVPBC8-BR4taCQNeABogIklANeEP0Nf1__AnmpWMZKtRfD7rKaLxO9SqZPCQedfZ__hvq7MZOfEJzAGziqFxHFUtYvVlABJ8jqXYIoApBCEexKhzPrKEC3LHbL8PL_0pud7egFTuHPxsMB8Kjou5qj9JwE5UFw4BFxQK/s800/ezgif.com-gif-maker%20(1).gif">
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ebcb5a7353c2591b2cbf11fd706c523609f3449721b6de55b0c8d69ca62154ee/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
 <p align="left"> <a href="https://twitter.com/itsvinayyay" target="blank"><img src="https://img.shields.io/twitter/follow/itsvinayyay?logo=twitter&style=for-the-badge" alt="itsvinayyay" /></a> </p>
